@@ -1,0 +1,43 @@
+.inline{
+    display: inline;
+}
+nav ul {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+  }
+  nav ul li h1{
+    padding-right: 20px;
+    padding-top: 20px;
+    display: inline;
+    font-family: monospace;
+    font-weight: 1000;
+  }
+  nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    
+  }
+
+  nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+  }
+  
+  .black{
+    background-color: black;
+  }
+  h2,h1{
+   color: white;
+   font-family: monospace;
+    font-weight: 500;
+
+  }
+  .silver{
+    color: silver;
+  }
