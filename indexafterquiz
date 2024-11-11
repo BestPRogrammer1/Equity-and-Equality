@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+     <title>Equity and Equality</title>
+    </head>
+    
+
+    <body class="black" >
+         
+        <nav>
+            <ul>
+            <li><h1 >E.COM</h1>  </li>
+            <li class="silver">Home</li>
+            <li><a href="Equity.html">Equity</a></li>
+            <li><a href="Equilty.html">Equality</a></li>
+            </ul>
+            
+           
+            
+        </nav>
+        <hr>
+        <h2>My website is about Equity and Equality</h1>
+        <img src="1_Sbu0UfWk6FZGoUIYFGqrUA.png" alt="Equity" width="400px">
+        <h2> Click on either Equity and Equality on the nav bar</h1>
+
+    </body>
+
+</html>
